@@ -7,6 +7,6 @@ Blockchain enthusiast.<br>
 start with 0 so basically A Developer 
 
 
-🏡 <a href="https://anshdoshi.vercel.app">Website</a>| 🐦 <a href="https://twitter.com/anshdoshi_10">Twitter</a>| 👔 <a href="https://www.linkedin.com/in/ansh-doshi-ba280422b/">Linkedin</a>
+🏡 <a href="https://anshdoshi.vercel.app">Website</a> | 🐦 <a href="https://twitter.com/anshdoshi_10">Twitter</a> | 👔 <a href="https://www.linkedin.com/in/ansh-doshi-ba280422b/">Linkedin</a>
  
  
