@@ -2,7 +2,7 @@
 
 
 
-React-JS || Node-JS || MongoDB <br>
+React-JS || Next-JS || Node-JS || MongoDB <br>
 Blockchain enthusiast.<br>
 start with 0 so basically A Developer 
 
